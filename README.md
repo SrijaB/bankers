@@ -1,1 +1,1 @@
-An implementation of Banker's scheduling algorithm using basic java
+An implementation of Banker's scheduling algorithm for deadlock avoidance where user decides maximum instances of each resource type and the number of resources to be allocated to each process, using basic java
